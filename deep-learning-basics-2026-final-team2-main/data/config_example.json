@@ -1,0 +1,8 @@
+{
+  "time_limit_sec": 30.0,
+  "max_moves": 60,
+  "grace_sec": 5.0,
+  "random_tier_ref_len": 20,
+  "tier_weights": {"d01-05": 10, "d06-10": 20, "d11-15": 25, "d16-20": 25, "random": 20},
+  "length_bonus_share": 0.4
+}

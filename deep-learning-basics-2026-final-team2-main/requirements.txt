@@ -1,0 +1,4 @@
+# 채점 서버와 동일한 버전. Colab 에서는 torch 가 이미 설치되어 있으므로 numpy 만 확인하면 된다.
+numpy>=1.26,<3
+torch>=2.2,<3
+pytest>=8
